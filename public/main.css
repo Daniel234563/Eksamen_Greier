@@ -1,0 +1,28 @@
+#data-table, td {
+    border: 1px solid;
+    border-collapse: collapse;
+    tr:nth-child(even) {background-color: #e8f4f8;} 
+    tr:nth-child(odd) {background-color: #d4ebf2;} 
+}
+
+
+
+th {
+    background-color:rgb(118, 155, 184);
+}
+
+input {
+    border: 1px solid;
+}
+
+button {
+    background-color: white;
+    border: 1px solid;
+}
+
+.content {
+    max-width: 500px;
+    margin: auto;
+}
+
+
